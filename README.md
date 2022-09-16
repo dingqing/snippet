@@ -1,3 +1,3 @@
-# useful-code
+# snippet
 
 To be done.
